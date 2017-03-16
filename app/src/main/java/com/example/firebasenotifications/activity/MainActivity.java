@@ -1,7 +1,9 @@
-package com.example.firebasenotifications;
+package com.example.firebasenotifications.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.firebasenotifications.R;
 
 public class MainActivity extends AppCompatActivity {
 
